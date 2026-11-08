@@ -1,0 +1,3 @@
+/* Static preview build for Cloudflare Pages.
+   This page shows the site source that was committed to this repository.
+   See README.md to publish the real prototype. */
